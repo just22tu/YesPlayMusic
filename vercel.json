@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://api-music.cyzero.top/:match*",
+      "destination1": "https://163api.qxiao.eu.org/:match*",
+      "destination2": "https://wyapi.996611.xyz/:match*"
+    }
+  ]
+}
